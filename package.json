@@ -1,6 +1,6 @@
 {
   "name": "markdown-magic-wordcount",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Add wordcount to markdown files",
   "main": "index.js",
   "scripts": {
