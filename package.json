@@ -1,0 +1,14 @@
+{
+  "name": "markdown-magic-wordcount",
+  "version": "1.0.0",
+  "description": "Add wordcount to markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Wells",
+  "license": "MIT",
+  "dependencies": {
+    "wordcount": "^1.1.1"
+  }
+}
