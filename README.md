@@ -1,6 +1,6 @@
-# Markdown Magic Word Count Plugin
+# Word Count Plugin
 
-Plugin to count words in markdown file.
+Add word count to markdown files via [markdown-magic](https://github.com/DavidWells/markdown-magic)
 
 ## Install
 
@@ -32,6 +32,6 @@ markdownMagic(markdownPath, config)
 
 ```md
 <!-- ⛔️ AUTO-GENERATED-CONTENT:START (WORDCOUNT) -->
-83
+89
 <!-- ⛔️ AUTO-GENERATED-CONTENT:END -->
 ```
