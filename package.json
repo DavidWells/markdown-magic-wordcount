@@ -4,6 +4,7 @@
   "description": "Add wordcount to markdown files",
   "main": "index.js",
   "scripts": {
+    "docs": "node example.js",
     "publish": "git push origin && git push origin --tags",
     "release:patch": "npm version patch && npm publish",
     "release:minor": "npm version minor && npm publish",
@@ -13,5 +14,8 @@
   "license": "MIT",
   "dependencies": {
     "wordcount": "^1.1.1"
+  },
+  "devDependencies": {
+    "markdown-magic": "^0.1.4"
   }
 }
